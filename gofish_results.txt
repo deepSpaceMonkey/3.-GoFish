@@ -1,0 +1,207 @@
+Ennis's Cards: 7d 8d 8s 13c 7c 11d 5d 
+Jesse's Cards: 5c 12d 12s 6d 9c 13s 11c 
+Do you have any 11's?
+Yes Jesse does :)
+Do you have any 13's?
+Yes Jesse does :)
+Do you have any 5's?
+Yes Jesse does :)
+Do you have any 10's?
+No Jesse doesn't :(
+Do you have any 6's?
+No Ennis doesn't :(
+
+ End of Round 1:
+Ennis's Cards: 10c 3s 
+Jesse's Cards: 6d 9c 12h 
+ 
+
+Do you have any 10's?
+No Jesse doesn't :(
+Do you have any 6's?
+No Ennis doesn't :(
+
+ End of Round 2:
+Ennis's Cards: 10c 3s 8h 
+Jesse's Cards: 6d 9c 12h 5h 
+ 
+
+Do you have any 8's?
+No Jesse doesn't :(
+Do you have any 9's?
+No Ennis doesn't :(
+
+ End of Round 3:
+Ennis's Cards: 10c 3s 8h 11h 
+Jesse's Cards: 6d 12h 5h 
+ 
+
+Do you have any 8's?
+No Jesse doesn't :(
+Do you have any 12's?
+No Ennis doesn't :(
+
+ End of Round 4:
+Ennis's Cards: 10c 3s 8h 11h 6s 
+Jesse's Cards: 6d 12h 5h 2h 
+ 
+
+Do you have any 11's?
+No Jesse doesn't :(
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 5:
+Ennis's Cards: 10c 3s 8h 11h 6s 13d 
+Jesse's Cards: 6d 12h 5h 2h 4d 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 6:
+Ennis's Cards: 10c 3s 8h 11h 6s 13d 1c 
+Jesse's Cards: 6d 5h 2h 4d 
+ 
+
+Do you have any 3's?
+No Jesse doesn't :(
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 7:
+Ennis's Cards: 10c 3s 8h 11h 6s 13d 1c 9s 
+Jesse's Cards: 6d 5h 2h 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 8:
+Ennis's Cards: 3s 8h 11h 6s 13d 1c 9s 
+Jesse's Cards: 6d 5h 2h 9d 
+ 
+
+Do you have any 6's?
+Yes Jesse does :)
+Do you have any 8's?
+No Jesse doesn't :(
+Do you have any 9's?
+Yes Ennis does :)
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 9:
+Ennis's Cards: 3s 8h 11h 13d 1c 10s 
+Jesse's Cards: 2h 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 10:
+Ennis's Cards: 3s 11h 13d 1c 10s 
+Jesse's Cards: 2h 1d 
+ 
+
+Do you have any 3's?
+No Jesse doesn't :(
+Do you have any 2's?
+No Ennis doesn't :(
+
+ End of Round 11:
+Ennis's Cards: 11h 13d 1c 10s 
+Jesse's Cards: 1d 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 1's?
+Yes Ennis does :)
+Do you have any 7's?
+Yes Ennis does :)
+Do you have any 4's?
+No Ennis doesn't :(
+
+ End of Round 12:
+Ennis's Cards: 11h 13d 10s 
+Jesse's Cards: 4h 11s 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 4's?
+No Ennis doesn't :(
+
+ End of Round 13:
+Ennis's Cards: 11h 13d 10s 2s 
+Jesse's Cards: 4h 11s 6h 
+ 
+
+Do you have any 11's?
+Yes Jesse does :)
+Do you have any 10's?
+No Jesse doesn't :(
+Do you have any 4's?
+Yes Ennis does :)
+Do you have any 6's?
+No Ennis doesn't :(
+
+ End of Round 14:
+Ennis's Cards: 13d 10s 2s 
+Jesse's Cards: 6h 3h 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 3's?
+No Ennis doesn't :(
+
+ End of Round 15:
+Ennis's Cards: 13d 10s 
+Jesse's Cards: 3h 
+ 
+
+Do you have any 10's?
+No Jesse doesn't :(
+Do you have any 3's?
+No Ennis doesn't :(
+
+ End of Round 16:
+Ennis's Cards: 13d 
+Jesse's Cards: 
+ 
+
+Do you have any 13's?
+No Jesse doesn't :(
+Do you have any 1's?
+No Ennis doesn't :(
+
+ End of Round 17:
+Ennis's Cards: 
+Jesse's Cards: 
+ 
+
+Do you have any 1's?
+No Jesse doesn't :(
+
+ End of Round 18:
+Ennis's Cards: 1s 
+Jesse's Cards: 
+ 
+
+
+ End of Round 19:
+Ennis's Cards: 
+Jesse's Cards: 
+ 
+
+It's a tie :(
+ 
+ end of program
